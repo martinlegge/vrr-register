@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25063318/README.md)
 # VRR Quick Register
 
 A QR landing page that helps visitors register parking faster:
